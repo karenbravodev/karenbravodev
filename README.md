@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Image%2011.%20Juni%202025.png" alt="Karen Bravo Banner" width="100%">
+  <img src="Image%2011.%20Juni%202025.png" alt="Karen Bravo Banner" width="50%">
 </p>
 
 <h1 align="center">Hallo 👋, ich bin Karen Bravo</h1>
