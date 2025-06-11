@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="A_professional_digital_graphic_banner_features_Kar.png" alt="Karen Bravo Banner" />
+</p>
+
 <h1 align="center">Hallo 👋, ich bin Karen Bravo</h1>
 <h3 align="center">Zukünftige Backend-Entwicklerin • Leidenschaftlich über Python, APIs und moderne Webtechnologien</h3>
 
