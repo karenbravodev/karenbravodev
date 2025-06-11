@@ -1,13 +1,4 @@
 
-<p align="center">
-  <img src="Image%2011.%20Juni%202025.png" alt="Karen Bravo Banner" style="max-width: 50%; height: auto;">
-</p>
-
-<h1 align="center">Hallo 👋, ich bin Karen Bravo</h1>
-<h3 align="center">Zukünftige Backend-Entwicklerin • Leidenschaftlich über Python, APIs und moderne Webtechnologien</h3>
-
----
-
 ### 👩‍💻 Über mich
 
 - 📍 Ich lebe in Hannover, Deutschland 🇩🇪  
